@@ -1,0 +1,55 @@
+## Aqui vai sua lista para ser adicionada no banco exemplo a baixo ##
+
+Falta de Água Geral
+Falta de Água Local
+Fechamento Risco de Sinistro
+Muita Pressão de Água
+Pouca Pressão de Água Geral
+Pouca Pressão de Água Local
+Cavalete Quebrado
+Cavalete Vazando
+Registro do Cavalete Invertido
+Registro do Cavalete Quebrado
+Registro do Cavalete Vazando
+Qualidade de Agua - Cheiro Op
+Qualidade de Agua - Cor Op
+Qualidade de Agua - Gosto Op
+Aferir Hidrômetro no Local
+Hidrômetro Embaçado
+Hidrômetro Invertido
+Hidrômetro Parado
+Hidrômetro Quebrado
+Hidrômetro Vazando
+Instalar Hidrômetro  Desaparecido/Furtado
+Trocar Hidrômetro Para Aferição
+Ligação de Agua
+Trocar Ramal de Agua
+Hidrante Vazando
+Vazamento de Agua com Infiltração
+Vazamento de Agua Leito Pavimentado
+Vazamento de Agua Leito Terra
+Vazamento de Agua no Passeio
+Suprimir Lig Agua Demolição/Unificação
+Suprimir Ligação de Agua por Imovel Vago
+Ligação de Esgoto
+Desobstruir Ramal de Esgoto
+Desobstruir Retorno Para Imovel
+Desobstruir Rede de Esgoto
+Aprovar Ligação de Agua
+Aprovar Ligação de Esgoto
+Vistoria Cadastral
+Suspeita Irregularidade Lig Agua/Hidro
+Acatamento Futuro  - Atestados
+Acatamento Futuro  - Estudos e Projetos
+Acatamento Futuro  - Mudança de Titularidade
+Acatamento Futuro  - Parcelamento
+Acatamento Futuro  - Reforma Fatura
+Acatamento Futuro  - Religação/Restabelecimento/Pagamento Informado
+Acatamento Futuro  - Segunda Via
+Manifestação - Denúncia de Atos Ilícitos
+Manifestação - Denúncia de Irregularidade
+Manifestação - Informação
+Manifestação - Reclamação
+Vistoria - Exame Predial
+Vistoria - Verificar Leitura
+Hidrômetro - Aferição

@@ -1,0 +1,108 @@
+## Este sera o log apresentado apos o insert ser concluido ##
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Falta De �gua Geral', 'Falta De �gua Geral', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Falta De �gua Local', 'Falta De �gua Local', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Fechamento Risco De Sinistro', 'Fechamento Risco De Sinistro', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Muita Press�o De �gua', 'Muita Press�o De �gua', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Pouca Press�o De �gua Geral', 'Pouca Press�o De �gua Geral', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Pouca Press�o De �gua Local', 'Pouca Press�o De �gua Local', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Cavalete Quebrado', 'Cavalete Quebrado', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Cavalete Vazando', 'Cavalete Vazando', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Registro Do Cavalete Invertido', 'Registro Do Cavalete Invertido', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Registro Do Cavalete Quebrado', 'Registro Do Cavalete Quebrado', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Registro Do Cavalete Vazando', 'Registro Do Cavalete Vazando', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Qualidade De Agua - Cheiro Op', 'Qualidade De Agua - Cheiro Op', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Qualidade De Agua - Cor Op', 'Qualidade De Agua - Cor Op', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Qualidade De Agua - Gosto Op', 'Qualidade De Agua - Gosto Op', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Aferir Hidr�metro No Local', 'Aferir Hidr�metro No Local', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Hidr�metro Emba�ado', 'Hidr�metro Emba�ado', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Hidr�metro Invertido', 'Hidr�metro Invertido', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Hidr�metro Parado', 'Hidr�metro Parado', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Hidr�metro Quebrado', 'Hidr�metro Quebrado', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Hidr�metro Vazando', 'Hidr�metro Vazando', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Instalar Hidr�metro  Desaparecido/Furtado', 'Instalar Hidr�metro  Desaparecido/Furtado', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Trocar Hidr�metro Para Aferi��o', 'Trocar Hidr�metro Para Aferi��o', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Liga��o De Agua', 'Liga��o De Agua', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Trocar Ramal De Agua', 'Trocar Ramal De Agua', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Hidrante Vazando', 'Hidrante Vazando', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Vazamento De Agua Com Infiltra��o', 'Vazamento De Agua Com Infiltra��o', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Vazamento De Agua Leito Pavimentado', 'Vazamento De Agua Leito Pavimentado', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Vazamento De Agua Leito Terra', 'Vazamento De Agua Leito Terra', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Vazamento De Agua No Passeio', 'Vazamento De Agua No Passeio', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Suprimir Lig Agua Demoli��o/Unifica��o', 'Suprimir Lig Agua Demoli��o/Unifica��o', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Suprimir Liga��o De Agua Por Imovel Vago', 'Suprimir Liga��o De Agua Por Imovel Vago', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Liga��o De Esgoto', 'Liga��o De Esgoto', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Desobstruir Ramal De Esgoto', 'Desobstruir Ramal De Esgoto', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Desobstruir Retorno Para Imovel', 'Desobstruir Retorno Para Imovel', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Desobstruir Rede De Esgoto', 'Desobstruir Rede De Esgoto', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Aprovar Liga��o De Agua', 'Aprovar Liga��o De Agua', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Aprovar Liga��o De Esgoto', 'Aprovar Liga��o De Esgoto', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Vistoria Cadastral', 'Vistoria Cadastral', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Suspeita Irregularidade Lig Agua/Hidro', 'Suspeita Irregularidade Lig Agua/Hidro', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Acatamento Futuro  - Atestados', 'Acatamento Futuro  - Atestados', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Acatamento Futuro  - Estudos E Projetos', 'Acatamento Futuro  - Estudos E Projetos', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Acatamento Futuro  - Mudan�a De Titularidade', 'Acatamento Futuro  - Mudan�a De Titularidade', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Acatamento Futuro  - Parcelamento', 'Acatamento Futuro  - Parcelamento', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Acatamento Futuro  - Reforma Fatura', 'Acatamento Futuro  - Reforma Fatura', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Acatamento Futuro  - Religa��o/Restabelecimento/Pagamento Informado', 'Acatamento Futuro  - Religa��o/Restabelecimento/Pagamento Informado', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Acatamento Futuro  - Segunda Via', 'Acatamento Futuro  - Segunda Via', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Manifesta��o - Den�ncia De Atos Il�citos', 'Manifesta��o - Den�ncia De Atos Il�citos', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Manifesta��o - Den�ncia De Irregularidade', 'Manifesta��o - Den�ncia De Irregularidade', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Manifesta��o - Informa��o', 'Manifesta��o - Informa��o', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Manifesta��o - Reclama��o', 'Manifesta��o - Reclama��o', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Vistoria - Exame Predial', 'Vistoria - Exame Predial', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Vistoria - Verificar Leitura', 'Vistoria - Verificar Leitura', 'Teste', 'Teste', 'Teste', 'Teste');
+
+INFO:root:Query realizada:  INSERT INTO public.service_types(name, description, nature, deadline, counting_type, initiative)VALUES ('Hidr�metro - Aferi��o', 'Hidr�metro - Aferi��o', 'Teste', 'Teste', 'Teste', 'Teste');
+
